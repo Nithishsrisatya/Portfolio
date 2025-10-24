@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Background */}
-      <div 
+      <div
         className="absolute inset-0 z-0"
         style={{
           backgroundImage: `url(${heroBg})`,
@@ -21,6 +21,13 @@ const Hero = () => {
       <div className="container mx-auto px-4 z-10">
         <div className="max-w-4xl mx-auto text-center space-y-8 animate-in fade-in duration-1000">
           <div className="space-y-4">
+            <div className="flex justify-center mb-6">
+              <img
+                src="/images/thub.jpg"
+                alt="Profile Picture"
+                className="w-32 h-32 rounded-full border-4 border-primary shadow-lg"
+              />
+            </div>
             <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
               Korlapati Nithish Sri Satya
             </h1>
@@ -35,8 +42,8 @@ const Hero = () => {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-4">
-            <Button 
-              size="lg" 
+            <Button
+              size="lg"
               className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-glow transition-all duration-300"
               onClick={() => document.getElementById('projects')?.scrollIntoView({ behavior: 'smooth' })}
             >
@@ -56,7 +63,7 @@ const Hero = () => {
           </div>
 
           <div className="flex gap-4 justify-center pt-8">
-            <a 
+            <a
               href="mailto:korlapatinithishsrisatya@gmail.com"
               className="p-3 rounded-full border border-border hover:border-primary hover:bg-primary/10 transition-all duration-300"
               aria-label="Email"
