@@ -9,7 +9,7 @@ const projects = [
     year: "2025",
     description: "Automated university timetable generation with role-based login. Built using React.js, Node.js, Express, and MongoDB.",
     tags: ["React", "Node.js", "MongoDB", "Express"],
-    github: "#",
+    github: "https://github.com/Nithishsrisatya/Efficient-TimeTable-Organizer",
     live: null,
   },
   {
@@ -18,15 +18,15 @@ const projects = [
     description: "Full-stack healthcare app simulating MediBuddy. Includes secure authentication, doctor profiles, and appointment management.",
     tags: ["React", "Node.js", "MongoDB", "Authentication"],
     github: "#",
-    live: "#",
+    live: "https://medibuddy-rosy.vercel.app/",
   },
   {
     title: "Musical Instrument Website",
     year: "2024",
     description: "Interactive piano and drum kit app built using HTML, CSS, and JavaScript.",
     tags: ["HTML", "CSS", "JavaScript"],
-    github: "#",
-    live: "#",
+    github: "https://nithishsrisatya.github.io/Internshi-/",
+    live: "https://nithishsrisatya.github.io/Internshi-/",
   },
 ];
 

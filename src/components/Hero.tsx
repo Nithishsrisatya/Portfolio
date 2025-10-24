@@ -42,13 +42,16 @@ const Hero = () => {
             >
               View Projects
             </Button>
-            <Button 
-              size="lg" 
+            <Button
+              size="lg"
               variant="outline"
               className="border-primary/50 hover:bg-primary/10 transition-all duration-300"
+              asChild
             >
-              <Download className="mr-2 h-5 w-5" />
-              Download Resume
+              <a href="https://drive.google.com/file/d/1yEkd18DUvMder14uKEFD6K5zyDM4qjB1/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                <Download className="mr-2 h-5 w-5" />
+                Download Resume
+              </a>
             </Button>
           </div>
 
@@ -60,8 +63,8 @@ const Hero = () => {
             >
               <Mail className="h-5 w-5" />
             </a>
-            <a 
-              href="https://github.com/yourusername"
+            <a
+              href="https://github.com/Nithishsrisatya"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full border border-border hover:border-primary hover:bg-primary/10 transition-all duration-300"
@@ -69,8 +72,8 @@ const Hero = () => {
             >
               <Github className="h-5 w-5" />
             </a>
-            <a 
-              href="https://linkedin.com/in/yourusername"
+            <a
+              href="https://www.linkedin.com/in/nithish-srisatya-k-901098258/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full border border-border hover:border-primary hover:bg-primary/10 transition-all duration-300"

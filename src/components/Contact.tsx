@@ -41,7 +41,7 @@ const Contact = () => {
                 className="flex items-center gap-3 p-6 h-auto border-primary/50 hover:bg-primary/10"
                 asChild
               >
-                <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Nithishsrisatya" target="_blank" rel="noopener noreferrer">
                   <Github className="h-6 w-6" />
                   <div className="text-left">
                     <p className="text-sm text-muted-foreground">GitHub</p>
@@ -55,7 +55,7 @@ const Contact = () => {
                 className="flex items-center gap-3 p-6 h-auto border-primary/50 hover:bg-primary/10"
                 asChild
               >
-                <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/nithish-srisatya-k-901098258/" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="h-6 w-6" />
                   <div className="text-left">
                     <p className="text-sm text-muted-foreground">LinkedIn</p>
