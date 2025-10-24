@@ -1,73 +1,55 @@
-# Welcome to your Lovable project
+# Korlapati Nithish Sri Satya - Portfolio
 
-## Project info
+A modern, responsive portfolio website showcasing my skills, projects, and experience as a Full Stack Developer specializing in the MERN stack.
 
-**URL**: https://lovable.dev/projects/02242c75-4970-4ca1-8076-26fae4ff0937
+## About
 
-## How can I edit this code?
+This portfolio is built with custom HTML, CSS, and JavaScript to demonstrate my web development skills. It features a clean, professional design with smooth animations and responsive layout.
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+- **Responsive Design**: Optimized for all devices
+- **Dark/Light Theme Toggle**: User preference for theme switching
+- **Smooth Scrolling Navigation**: Easy navigation between sections
+- **Interactive Elements**: Hover effects and animations
+- **Contact Form**: Direct communication capability
+- **Project Showcase**: Live demos and GitHub repositories
+- **Certification Links**: Direct access to verified certificates
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/02242c75-4970-4ca1-8076-26fae4ff0937) and start prompting.
+## Technologies Used
 
-Changes made via Lovable will be committed automatically to this repo.
+- HTML5
+- CSS3 (Custom styles with animations)
+- JavaScript (Vanilla JS for interactivity)
+- Font Awesome (Icons)
+- Google Fonts (Poppins)
 
-**Use your preferred IDE**
+## Sections
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **About**: Personal introduction and education background
+- **Experience**: Professional internships and projects
+- **Design Showcase**: UI/UX design work
+- **Projects**: Featured development projects with live links
+- **Skills**: Technical skills and certifications
+- **Contact**: Contact information and form
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Getting Started
 
-Follow these steps:
+To view the portfolio locally:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+1. Clone the repository
+2. Open `index.html` in your browser
+3. No build process required - it's a static site
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Contact
 
-# Step 3: Install the necessary dependencies.
-npm i
+Feel free to reach out for opportunities or collaborations!
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- **Email**: korlapatinithishsrisatya@gmail.com
+- **Phone**: +91 63058 82467
+- **GitHub**: [Nithishsrisatya](https://github.com/Nithishsrisatya)
+- **LinkedIn**: [Nithish Sri Satya K](https://www.linkedin.com/in/nithish-srisatya-k-901098258/)
 
-**Edit a file directly in GitHub**
+## License
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/02242c75-4970-4ca1-8076-26fae4ff0937) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+© 2024 Korlapati Nithish Sri Satya. All rights reserved.
