@@ -21,13 +21,6 @@ const Hero = () => {
       <div className="container mx-auto px-4 z-10">
         <div className="max-w-4xl mx-auto text-center space-y-8 animate-in fade-in duration-1000">
           <div className="space-y-4">
-            <div className="flex justify-center mb-6">
-              <img
-                src="/images/thub.jpg"
-                alt="Profile Picture"
-                className="w-32 h-32 rounded-full border-4 border-primary shadow-lg"
-              />
-            </div>
             <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
               Korlapati Nithish Sri Satya
             </h1>
