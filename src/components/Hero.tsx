@@ -48,7 +48,7 @@ const Hero = () => {
               className="border-primary/50 hover:bg-primary/10 transition-all duration-300"
               asChild
             >
-              <a href="https://drive.google.com/file/d/1yX7T3D3UhOsRxl_xvywb7bmhzljHehGz/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/1L-0DMjhxlEzusDv0CYQy3LRdYahyIXyg/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                 <Download className="mr-2 h-5 w-5" />
                 Download Resume
               </a>
